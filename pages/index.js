@@ -2,7 +2,7 @@ import Head from "next/head";
 import Image from "next/image";
 import { Inter } from "@next/font/google";
 import styles from "@/styles/Home.module.css";
-import { imageList } from "@/public/photos";
+import { imageList } from "@/public/photo";
 import { useEffect, useRef, useState } from "react";
 // import song from '@/public/song.mp3'
 
